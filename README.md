@@ -2,6 +2,13 @@
 
 MonoDF: Monocular 3D Object Detection with Depth Foundation Models
 
+The result on KITTI server:
+
+https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=1867d39a29c0b354c10e2560d242d550af42acbc
+
+<img width="580" height="240" alt="image" src="https://github.com/user-attachments/assets/d8afb1cb-b9f1-4e52-bcdf-567bdaa6e644" />
+
+
 ## Installation
 
 1. Clone and create a conda environment:
